@@ -18,5 +18,6 @@ fun HomeScreen() {
             fontWeight = FontWeight.Bold,
             modifier = Modifier.padding(20.dp))
     }
-    InfoScreen()
+    InformationScreen()
+
 }
