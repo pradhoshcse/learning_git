@@ -17,7 +17,5 @@ fun HomeScreen() {
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold,
             modifier = Modifier.padding(20.dp))
-
-        ScreenOne()
     }
 }
