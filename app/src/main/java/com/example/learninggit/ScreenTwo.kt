@@ -9,10 +9,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun ScreenOne() {
-    Text(text = "Screen One",
+fun ScreenTwo() {
+    Text(text = "Screen Two",
         fontSize = 32.sp,
         fontWeight = FontWeight.Bold,
         modifier = Modifier.padding(20.dp))
-        ScreenTwo()
 }
